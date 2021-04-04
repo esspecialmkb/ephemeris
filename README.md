@@ -1,4 +1,4 @@
-# ephemeris
+# ephemeris - forked from singulariti-tech (https://github.com/singulariti-tech/ephemeris)
 A Java port of Ephemeris calculations by Peter Hayes. Since the original JavaScript version of the code could not be 
 found, we are unable to link to it. There are a few versions available on github and a few hosted versions too. 
 This version is more or less an exact port of the original (specifically the calculations which are based on 
